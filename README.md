@@ -5,4 +5,4 @@
 
 продолжение следует...
 
-![Работа](https://github.com/{maxbatrov}/{about-me-again}/raw/{main}/photo.jpg)
+![Работа](https://github.com/maxbatrov/about-me-again/blob/main/photo.jpg)
