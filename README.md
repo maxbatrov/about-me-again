@@ -5,4 +5,4 @@
 
 продолжение следует...
 
-<image src="C:\Users\PC\Desktop\About me again\photo.jpg" alt="Работа">
+![Работа](https://github.com/{maxbatrov}/{about-me-again}/raw/{main}/photo.jpg)
