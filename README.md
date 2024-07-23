@@ -5,4 +5,4 @@
 
 продолжение следует...
 
-<img src="https://github.com/maxbatrov/about-me-again/blob/main/photo.jpg" alt="Работа" />
+![](photo.jpg)
